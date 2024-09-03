@@ -18,6 +18,10 @@
 <div>
 <div>&nbsp;</div>
 </div>
+<h1>Arithmetic</h1>
+<div class="lurch-atom" data-metadata_type="&quot;rule&quot;" data-shell_title="Rule:">
+<p>Arithmetic(ZZ)</p>
+</div>
 <h1>Algebra</h1>
 <p>The Algebra Rule is a special built-in validation tool that Lurch provides for evaluating algebraic identities. It does not import any additional libraries.</p>
 <div class="lurch-atom" data-metadata_type="&quot;rule&quot;" data-shell_title="Rule:">
